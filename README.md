@@ -1,2 +1,2 @@
 # Computer-Vision
-Depth from gradient, stereo vision for depth estimation and Lucas Kanade optical flow.
+I experimented with Depth from gradient, stereo vision for depth estimation and Lucas Kanade optical flow.
